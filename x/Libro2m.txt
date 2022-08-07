@@ -1,0 +1,9 @@
+Id_Alum	Nombre_Alum	Apellido_Alum	Dni_Alum	Direccion_Alum	Distrito
+8	Lucas Fernandez	Lopez	12345675	Jr.Piura 256	Comas
+9	Maria Juana	Rodriquez Flores	45678912	 Calles Los Girasoles 12	Puenta Piedra
+10	Katy Elizabeth	Zambrano Gonzales	12365678	Calles Perales	Ancon
+11	Norma Camila	Fernandez	12345676	Jr.Callao 12	La Victoria
+12	Flor Marta	Hernandez Quispe	65893214	Av.Los Pinos 45	Pueblo Libre
+13	Beatriz Cielo	Castillo Castro	56892314	Jr.Los Amautas 56	Carabayllo
+14	Crsitiano Enzo	Diaz Leon	12459632	Jr.Chim£ 89	Lurin
+15	Gerad Hugo	Espinoza 	45612896	Av.Las Manzana 45	Comas
